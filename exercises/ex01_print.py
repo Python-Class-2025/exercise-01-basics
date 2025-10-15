@@ -13,6 +13,7 @@ print("Hello, Python!")
 # TODO: Create a variable 'name' with your full name and print "My name is <name>"
 name = "Baygeldi"
 print("My name is " + name)
+print("Hello")
 
 # TODO: Create two numbers, add them together and print the result
 num1 = 10.102
